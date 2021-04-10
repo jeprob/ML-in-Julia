@@ -1,0 +1,1 @@
+This was a Machine Learning Block Course where various algorithms were explored and we tried out our first Kaggle competiton. 
